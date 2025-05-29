@@ -30,7 +30,6 @@ Le bot utilise exclusivement des **commandes slash** (full slash commands) pour 
 - Interface 100% en commandes slash pour une meilleure intégration Discord et une prise en main rapide  
 - Sauvegarde des données en local dans des fichiers JSON pour une configuration simple et transparente  
 
---
 
 ## Crédits & Contact
 Développé par Developpeur1337
