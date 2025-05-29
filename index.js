@@ -29,7 +29,7 @@ const client = new Client({
         activities: [{
             name: `Prefix: /`,
             type: ActivityType.Streaming,
-            url: "https://www.twitch.tv/assuradev"
+            url: "https://www.twitch.tv/developpeur1337"
         }],
         status: "online"
     },
