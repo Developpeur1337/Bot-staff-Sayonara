@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "ChannelCmds": "",
+    "owners": [],
+    "logs": {
+        "owner": "",
+        "unowner": "",
+        "mute": "",
+        "unmute": "",
+        "warn": "",
+        "unmuteall": "",
+        "nickname": "",
+        "gestion": "",
+        "derank": "",
+        "ban": ""
+    }
+}
